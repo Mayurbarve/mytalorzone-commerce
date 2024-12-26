@@ -11,10 +11,10 @@ const Contact = () => {
       </div>
 
       <div className='flex flex-col justify-center items-center gap-2'>
-        <p className='text-sm text-gray-600'>Email ID - support@ambraee.com</p>
-        <p className='text-sm text-gray-600'>(M) +91-9828733355</p>
-        <p className='text-sm text-gray-600'>Address - Ambraee Enterprises , B-8 , 2nd Floor , Sharma Colony , Kartarpura Industrial Area , Bais</p>
-        <p className='text-sm text-gray-600'>Godam, Jaipur - 302006</p>
+        <p className='text-sm text-gray-600'>Email ID - mayurbarve04@gmail.com</p>
+        <p className='text-sm text-gray-600'>(M) +91-7057627532</p>
+        <p className='text-sm text-gray-600'>Address - mytalorzone , B-8 , 2nd Floor , Chandan Nagar, Umred Road , Bais</p>
+        <p className='text-sm text-gray-600'>Nagpur - Maharshtra - 440024</p>
         <p className='text-sm text-gray-600'>GST No. - 08ABYFA7653G1ZT</p>
 
       </div>
